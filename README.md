@@ -7,3 +7,6 @@ Python + Telegram Bot remake of [https://github.com/KuroLabs/stegcloak](https://
 <p align="justify">
 StegCloak is a pure JavaScript steganography module designed in functional programming style, to hide secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters. It can be used to safely watermark strings, invisible scripts on webpages, texts on social media or for any other covert communication. Completely invisible! See how it works in-depth in this Medium <a href="https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787">article</a> or watch our <a href="https://www.youtube.com/watch?v=RBDqZwcGvQk">demo</a> to know what it does.
 <p>
+
+![example](https://i.ibb.co/N1spyWT/8f7bc42cf098.jpg)
+![example](https://i.ibb.co/WyN1G8W/e4737b63cf0d.jpg)
